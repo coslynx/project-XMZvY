@@ -1,0 +1,4 @@
+2021-08-14 09:00:00 User1 warned User2 for offensive language
+2021-08-14 09:05:00 User3 kicked User4 for spamming
+2021-08-14 09:10:00 User5 banned User6 for repeated violations
+2021-08-14 09:15:00 User7 muted User8 for inappropriate behavior
